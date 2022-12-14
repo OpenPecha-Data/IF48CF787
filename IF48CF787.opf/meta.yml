@@ -1,0 +1,28 @@
+id: IF48CF787
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:14:43.910176+00:00
+last_modified: 2022-12-14 18:14:43.910184+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-18T06:19:40.66Z'
+  creationid: dirk
+  eft-text-id: UT22084-058-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_155-The_Question_of_the_Naga_King-v1
+bases:
+  7EE7:
+    source_metadata: null
+    order: 1
+    base_file: 7EE7.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
